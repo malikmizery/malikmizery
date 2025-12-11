@@ -60,17 +60,6 @@
 
 ---
 
-### GitHub stats 📊
-<!--<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=malikmizery&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmizery&layout=compact&langs_count=10&theme=tokyonight" height="150" />
-</p>-->
-<p>
-  <img src="https://streak-stats.demolab.com?user=malikmizery&theme=tokyonight" height="150" />
-</p>
-
----
-
 ### How to reach me 📫
 - 💬 Open an issue or discussion on this profile
 - 🤝 Open to collaborate on .NET / Blazor / EF Core projects
