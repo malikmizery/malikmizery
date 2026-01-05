@@ -64,8 +64,8 @@
 - 💬 Open an issue or discussion on this profile
 - 🤝 Open to collaborate on .NET / Blazor / EF Core projects
 
-<!-- Profile views (optional) -->
-<img src="https://komarev.com/ghpvc/?username=malikmizery&style=flat-square&color=blue" alt="Profile views" />
+<!-- Profile views (optional)
+<img src="https://komarev.com/ghpvc/?username=malikmizery&style=flat-square&color=blue" alt="Profile views" /> -->
 
 <!--
 **malikmizery/malikmizery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
